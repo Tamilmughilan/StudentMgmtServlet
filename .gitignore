@@ -1,0 +1,9 @@
+# Eclipse & Java
+.settings/
+.project
+.classpath
+*.class
+
+# Tomcat or build folders
+build/
+target/
